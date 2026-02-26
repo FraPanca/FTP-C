@@ -12,5 +12,5 @@ A File Transfer Protocol based on C.
 	- $ gcc client.c -o client		<- directory client
 	
 - Esecuzione
-  - $ ./server serverSocketPort
+	- $ ./server serverSocketPort
 	- $ ./client serverIpAddress serverPort
